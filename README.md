@@ -20,6 +20,7 @@ The `NovaMarket` dataset includes 15,000 customer records.
 ## ▶ How to Open the Notebook in Google Colab
 
 Click the button below:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/IngLuisGarcia17/NovaMarket_Retail_Customer_Behavior/blob/main/Project_NovaRetail_customer_behavior.ipynb)
 Or:
 
